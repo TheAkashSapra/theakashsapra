@@ -81,3 +81,6 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> &nbsp;&nbsp;
 <a href="https://xkcd.com/353/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/48/rocket.png" alt="antigravity" width="40" height="40"/> </a>
 </p>
+
+<img width="6991" height="1804" alt="46y456547" src="https://github.com/user-attachments/assets/6dadbaf5-93f6-4f4b-b16e-d4f548b5677d" />
+
